@@ -40,7 +40,7 @@ Todo o design foi planejado para se adaptar a diferentes dispositivos.
 
 ---
 
-👉 Clique aqui para visualizar o projeto no GitHub Pages:
+👉 Visualize o projeto no GitHub Pages: https://gio-fernandes.github.io/clone-discord/
 
 ---
 
