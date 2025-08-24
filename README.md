@@ -1,26 +1,23 @@
-📌 Projeto Discord - Landing Page
+# 📌 Projeto Discord - Landing Page
 
 ---
 
 Este projeto é uma página inspirada no site oficial do Discord, criada com HTML e CSS.
 O principal objetivo é praticar conceitos de responsividade, aplicando:
-
-Flexbox para organização dos elementos;
-
-Media Queries para adaptação em diferentes tamanhos de tela;
-
-Design fluido e consistente em dispositivos móveis, tablets e desktops.
+- Flexbox para organização dos elementos;
+- Media Queries para adaptação em diferentes tamanhos de tela;
+- Design fluido e consistente em dispositivos móveis, tablets e desktops.
 
 ---
 
-🚀 Tecnologias Utilizadas:
+#### 🚀 Tecnologias Utilizadas:
 - HTML5
 - CSS3
 - Google Fonts
 
 ---
 
-🎨 Layout:
+#### 🎨 Layout:
 
 A página é composta por:
 
@@ -32,7 +29,7 @@ Todo o design foi planejado para se adaptar a diferentes dispositivos.
 
 ---
 
-📱 Responsividade:
+#### 📱 Responsividade:
 
 🔹 Desktop (≥1050px) → layout em duas colunas, imagens e textos lado a lado
 🔹 Tablet (450px – 799px) → layout reorganizado em coluna, elementos centralizados
@@ -40,7 +37,7 @@ Todo o design foi planejado para se adaptar a diferentes dispositivos.
 
 ---
 
-👉 Visualize o projeto no GitHub Pages: https://gio-fernandes.github.io/clone-discord/
+#### 👉 Visualize o projeto no GitHub Pages: https://gio-fernandes.github.io/clone-discord/
 
 ---
 
